@@ -1,5 +1,6 @@
 # Startup_Investment_Analysis
 Business Problem:
+
 It is not an easy task to keep track of the number of startup companies in the
 world and even less to find the right startup to invest in. In order to find your next
 investment, it is important to know what kind of investor you are to
